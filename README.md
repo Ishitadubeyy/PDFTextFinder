@@ -3,7 +3,7 @@ PDF Text Highlighter
 This Python script allows you to upload a PDF file in a Google Colab environment, search for a text string (case-insensitive) inside the PDF, highlight all occurrences of the search text, and download the highlighted PDF back to your local machine.
 
 
-
+	
 FEATURES:
 1.Upload PDF files interactively in Google Colab.
 
