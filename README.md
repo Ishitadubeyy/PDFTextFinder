@@ -23,7 +23,7 @@ FEATURES:
 REQUIREMENTS:
 1.Google Colab environment (to use the file upload/download features).
 
-2.Python 3.
+2.Python
 
 3.PyMuPDF library (fitz) for PDF processing.
 
